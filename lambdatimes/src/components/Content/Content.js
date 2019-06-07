@@ -70,3 +70,43 @@ export default class Content extends Component {
     );
   }
 }
+
+
+/*Self-Study/Essay Questions 
+
+
+1.What are PropTypes used for? Please describe why it's
+important to type check our data in JavaScript.
+
+Answer:
+We have used PropTypes for typechecking, type checking is
+the ability to to delclare what a prop will be. This is 
+important because it allows us to avoid bugs down the line.
+as your app grows.
+
+
+ 2.Describe a life-cycle event in React?
+
+ Answer:
+ A life cycle event is a method you create in your 
+ React Component. These methods allow you to update 
+ the current state.
+
+
+ 3.Explain the details of a Higher Order Component?
+
+ Answer:
+ Higher order components are functions that create 
+ components, this allows us to make re usable code.
+
+
+
+4. What are three different ways to style components in 
+ React? Explain some of the benefits of each.
+
+Answer:
+inline-styling,
+components,
+original 
+
+*/
